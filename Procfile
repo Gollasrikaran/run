@@ -1,1 +1,1 @@
-web: python your_script.py
+web: python app.py
